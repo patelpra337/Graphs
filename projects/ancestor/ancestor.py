@@ -1,5 +1,5 @@
 from collections import deque
-
+# ancestor
 def earliest_ancestor(ancestors, starting_node):
     parents_for_child = {}
 
